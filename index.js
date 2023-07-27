@@ -1,1 +1,3 @@
-// require cli and run 
+const cli = require('./lib/cli');
+
+cli();
