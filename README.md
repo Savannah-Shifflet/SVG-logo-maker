@@ -19,7 +19,7 @@ To use this code, you will need to clone it to your local machine using:
 
     git clone git@github.com:Savannah-Shifflet/SVG-logo-maker.git
 
-Additionally, this code uses the Inquirer package which can be installed by running the following command:
+Additionally, this code uses the Inquirer package and Jest package for tests which can be installed by running the following command:
     
     npm install 
 
@@ -42,6 +42,8 @@ The video tutorial is below as well and the sample logo made in the video:
 
 ## Credits
 Utilized the Inquirer package which can be found [here.](https://www.npmjs.com/package/inquirer/v/8.2.4)
+
+Utilized Jest package for the tests which can be found [here.](https://www.npmjs.com/package/jest)
 
 ## License
 
